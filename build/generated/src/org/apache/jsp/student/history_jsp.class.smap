@@ -1,0 +1,22 @@
+SMAP
+history_jsp.java
+JSP
+*S JSP
+*F
++ 0 history.jsp
+student/history.jsp
++ 1 head.html
+student/../design/head.html
++ 2 header.html
+student/../design/header.html
++ 3 student_menu.html
+student/../design/student_menu.html
+*L
+5,9:51
+1#1:60
+13#0,4:61
+1#2,3:65
+16#0,2:68
+1#3,7:70
+17#0,5:77
+*E
